@@ -16,6 +16,7 @@ def square(n):
 
     """
     # YOUR CODE HERE
+    return n * n
 
 
 def cube(n):
@@ -29,6 +30,7 @@ def cube(n):
 
     """
     # YOUR CODE HERE
+    return n * n * n
 
 
 
